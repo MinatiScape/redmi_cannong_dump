@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "cannongdefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "local": {
+            "id": "0"
+        }
+    }
+]
